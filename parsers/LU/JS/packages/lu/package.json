@@ -43,7 +43,7 @@
     "delay": "^4.3.0",
     "fs-extra": "^8.1.0",
     "get-stdin": "^6.0.0",
-    "globby": "^10.0.1",
+    "globby": "^14.0.2",
     "intercept-stdout": "^0.1.2",
     "lodash": "^4.17.19",
     "node-fetch": "~2.6.0",

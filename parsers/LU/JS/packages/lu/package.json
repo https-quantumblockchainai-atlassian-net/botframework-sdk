@@ -35,7 +35,7 @@
   "dependencies": {
     "@azure/cognitiveservices-luis-authoring": "4.0.0-preview.1",
     "@azure/ms-rest-azure-js": "2.0.1",
-    "@types/node-fetch": "~2.5.5",
+    "@types/node-fetch": "~3.0.2",
     "antlr4": "^4.7.2",
     "chalk": "2.4.1",
     "console-stream": "^0.1.1",

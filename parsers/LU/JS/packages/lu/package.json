@@ -47,7 +47,7 @@
     "intercept-stdout": "^0.1.2",
     "lodash": "^4.17.19",
     "node-fetch": "~2.6.0",
-    "semver": "^5.5.1",
+    "semver": "^7.6.2",
     "tslib": "^1.10.0"
   },
   "devDependencies": {
